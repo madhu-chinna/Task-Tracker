@@ -1,3 +1,9 @@
+1. Download This project from  https://github.com/madhu-chinna/Task-Tracker
+2. Install dependencies using command npm install
+3. Run Code using command npm start. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
